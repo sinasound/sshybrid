@@ -12,7 +12,9 @@ TEST DATA:
 A test array ATF (from EasyCom dataset [1]) and two example test cases from EasyCom [1] dataset are provided.
 
 HOW TO RUN:
-1) Either download the Dictionary for Python 'sshybrid_dictionary.h5' (200 MB) and place it in the same directory as the Python codes OR create the dictionary by running 'run_create_dictionary.py' (takes about 10 minute) to generate and save the same dictionary file.
+1) Either download the Dictionary for Python 'sshybrid_dictionary.h5' (200 MB) from 
+https://www.dropbox.com/s/8ffyefd40kpjr6z/sshybrid_dictionary.h5?dl=0
+and place it in the same directory as the Python codes OR create the dictionary by running 'run_create_dictionary.py' (takes about 10 minute) to generate and save the same dictionary file.
 2) Run 'run_sshybrid.py' which returns the output audio, plots the results and optionally saves the output audio/plots.
 
 USE IT WITH YOUR OWN ARRAY/DATASET:

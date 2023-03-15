@@ -12,7 +12,9 @@ TEST DATA:
 A test array ATF (from EasyCom dataset [1]) and two example test cases from EasyCom [1] dataset are provided. Some functions from VOICEBOX [2] toolbox (included) is used.
 
 HOW TO RUN:
-1) Either download the Dictionary for MATLAB 'sshybrid_dictionary.mat' (480 MB) and place it in the same directory as the MATLAB codes OR create the dictionary by running 'run_create_dictionary.m' (takes about 1 minute) to generate and save the same dictionary file.
+1) Either download the Dictionary for MATLAB 'sshybrid_dictionary.mat' (480 MB) from
+https://www.dropbox.com/s/4e11j5d52wab7m7/%EF%BB%BFsshybrid_dictionary.mat?dl=0
+and place it in the same directory as the MATLAB codes OR create the dictionary by running 'run_create_dictionary.m' (takes about 1 minute) to generate and save the same dictionary file.
 2) Run 'run_sshybrid.m' which returns the output audio, plots the results and optionally saves the output audio/plots.
 
 USE IT WITH YOUR OWN ARRAY/DATASET:
