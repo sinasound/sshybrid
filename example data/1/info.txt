@@ -1,0 +1,12 @@
+nSrc: 2
+Session: 3
+File ID: 11
+File Name: 10-00-415
+Duration: 6
+Total Frames: 120
+Frame1: 305
+Frame2: 424
+Sample1: 729601
+Sample2: 1017600
+Sources ID: [4  6]
+Target ID: 4
